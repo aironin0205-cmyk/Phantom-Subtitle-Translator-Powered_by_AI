@@ -1,0 +1,25 @@
+{
+  "extends": "./tsconfig.base.json",
+  "compileOnSave": false,
+  "files": [],
+  "references": [
+    {
+      "path": "./apps/api-e2e"
+    },
+    {
+      "path": "./apps/api"
+    },
+    {
+      "path": "./apps/workers-e2e"
+    },
+    {
+      "path": "./apps/workers"
+    },
+    {
+      "path": "./libs/translation/domain"
+    },
+    {
+      "path": "./libs/shared/core"
+    }
+  ]
+}
