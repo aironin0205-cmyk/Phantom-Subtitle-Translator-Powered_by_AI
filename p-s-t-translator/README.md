@@ -8,7 +8,7 @@
 
 ## Finish your CI setup
 
-[Click here to finish setting up your workspace!](https://cloud.nx.app/connect/fWgiIDo0OP)
+[Click here to finish setting up your workspace!](https://cloud.nx.app/connect/b2ZA0DmeKE)
 
 
 ## Run tasks

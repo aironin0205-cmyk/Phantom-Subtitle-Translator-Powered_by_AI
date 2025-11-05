@@ -14,7 +14,7 @@
     ],
     "sharedGlobals": []
   },
-  "nxCloudId": "690ae71572c76d137f1052c8",
+  "nxCloudId": "690b0087a81fc94ad52329d6",
   "plugins": [
     {
       "plugin": "@nx/webpack/plugin",
@@ -38,18 +38,7 @@
       "options": {
         "targetName": "test"
       },
-      "exclude": [
-        "apps/api-e2e/**/*",
-        "apps/workers-e2e/**/*",
-        "apps/api-e2e/**/*"
-      ]
+      "exclude": ["apps/api-e2e/**/*"]
     }
-  ],
-  "targetDefaults": {
-    "@nx/js:tsc": {
-      "cache": true,
-      "dependsOn": ["^build"],
-      "inputs": ["production", "^production"]
-    }
-  }
+  ]
 }

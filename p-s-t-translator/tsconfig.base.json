@@ -14,10 +14,7 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {
-      "@p-s-t-translator/domain": ["libs/translation/domain/src/index.ts"],
-      "@p-s-t-translator/core": ["libs/shared/core/src/index.ts"]
-    }
+    "paths": {}
   },
   "exclude": ["node_modules", "tmp"]
 }
