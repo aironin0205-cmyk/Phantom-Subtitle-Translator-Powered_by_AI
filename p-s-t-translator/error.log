@@ -1,0 +1,10 @@
+
+ NX  Generating @nx/workspace:ci-workflow
+
+
+ NX   Property 'ci' does not match the schema. 'github,skip' should be one of github,circleci,azure,bitbucket-pipelines,gitlab.
+
+
+
+(node:7194) [DEP0180] DeprecationWarning: fs.Stats constructor is deprecated.
+(Use `node --trace-deprecation ...` to show where the warning was created)
